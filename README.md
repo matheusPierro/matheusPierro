@@ -1,4 +1,4 @@
-## Eaee beleza? Eu sou Matheus Pierro bem vindos ao meu perfil! 
+## Eaee beleza? Eu sou Matheus Pierro e sejam bem vindos ao meu perfil! 
  <div>
   <a href="https://github.com/matheusPierro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusPierro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,7 +13,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <!--   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 </div>
-  
+ 
   ##
  
 <div> 
