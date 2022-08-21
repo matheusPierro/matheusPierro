@@ -1,4 +1,4 @@
-## Eaee beleza? Eu sou Matheus Pierro e esse é o meu perfil!
+## Matheus Pierro
  <div>
   <a href="https://github.com/matheusPierro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusPierro&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
