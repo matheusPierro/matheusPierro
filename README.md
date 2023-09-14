@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matheus+Pierro;I'm+19+years+old;I+from+Brasil,+SP;I+backend+development+at+Eisa+for+VIVO;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matheus+Pierro;I'm+20+years+old;I+from+Brasil,+SP;I+backend+development+at+Eisa+for+VIVO;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusPierro&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Pierro github stats" /> 
@@ -17,27 +17,25 @@ These are some of the technologies and tools I use:
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,react)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=figma,js,html,css,jquery,bootstrap,react,vite)](https://skillicons.dev)
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=androidstudio,azure,docker,postman,git,bash,vite,figma,linux,eclipse,idea,kafka)](https://skillicons.dev)
-
+[![Minhas Habilidades](https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vscode,azure,git,gitlab,linux,bash,grafana,postman,docker,jenkins)](https://skillicons.dev)
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nest,spring,hibernate,java,python,flask,django,jest,prisma,postgres)](https://skillicons.dev)
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,sequelize,java,maven,spring,hibernate,scala,python,flask,django,kafka,kotlin)](https://skillicons.dev)
 
+- Database
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis)](https://skillicons.dev)
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheusPierro}/count.svg" /></p> 
 <br></div>
-
-  
-  
-
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
