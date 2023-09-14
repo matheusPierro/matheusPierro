@@ -11,11 +11,23 @@
   <img src="https://github-profile-trophy.vercel.app/?username=matheusPierro&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-### Main skills:
+### :computer: Technologies:
 
-### Tools:
+These are some of the technologies and tools I use:
 
-### Other Knowledge:
+- Front-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,react)](https://skillicons.dev)
+
+- Tools and Plataforms
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=androidstudio,azure,docker,postman,git,bash,vite,figma,linux,eclipse,idea,kafka)](https://skillicons.dev)
+
+
+- Back-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nest,spring,hibernate,java,python,flask,django,jest,prisma,postgres)](https://skillicons.dev)
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
 
 
   <div align="center">
